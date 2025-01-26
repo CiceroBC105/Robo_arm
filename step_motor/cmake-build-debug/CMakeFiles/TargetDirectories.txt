@@ -1,0 +1,3 @@
+H:/Lessons/Robo_arm/step_motor/cmake-build-debug/CMakeFiles/step_motor.elf.dir
+H:/Lessons/Robo_arm/step_motor/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/Lessons/Robo_arm/step_motor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
